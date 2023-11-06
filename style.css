@@ -5,13 +5,13 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Lato", sans-serif;
+    font-family: "Gill Sans", sans-serif;
 }
 
 body,
 html {
     height: 100%;
-    color: #000000;
+    color: #9c55cc;
     line-height: 1.8;
 }
 
@@ -44,7 +44,7 @@ html {
 }
 
 .w3-wide {
-    letter-spacing: 10px;
+    letter-spacing: 12px;
 }
 
 .w3-hover-opacity {
